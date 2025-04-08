@@ -9,6 +9,7 @@ programa
 		escreva(" Insira um outro número: ")
 		leia(n1)
 		escreva(" A soma entre os números que vc inseriu é ", n + n1)
+		escreva(" Você deseja fazer outra operação?")
 		
 	}
 }
@@ -17,7 +18,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 205; 
+ * @POSICAO-CURSOR = 253; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
