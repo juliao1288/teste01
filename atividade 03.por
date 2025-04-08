@@ -3,7 +3,13 @@ programa
 	
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
+		inteiro n, n1
+		escreva(" Insira um número: ")
+		leia(n)
+		escreva(" Insira um outro número: ")
+		leia(n1)
+		escreva(" A soma entre os números que vc inseriu é ", n + n1)
+		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -11,7 +17,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 12; 
+ * @POSICAO-CURSOR = 205; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
